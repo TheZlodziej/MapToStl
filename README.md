@@ -4,7 +4,7 @@
 
 ## How to use:
 1) Download the [python file](pictostl.py)
-2) If you dont have Pillow (PIL) module installed - add it [tutorial here](https://pillow.readthedocs.io/en/stable/installation.html)
+2) If you dont have Pillow (PIL) module installed - add it - [tutorial here](https://pillow.readthedocs.io/en/stable/installation.html)
 3) Run the code with following command:
   *pyhton <pictostl.py file path>*
 4) The program should ask you for your image file path
