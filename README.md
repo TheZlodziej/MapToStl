@@ -17,8 +17,11 @@ run the code:
 
 enter the path of your png file:
 <img src="example/ex2.png">
+
 and wait for the message:
 <img src="example/ex3.png">
 
-once it says it's done you can look for the STL file in your python file directory:
-<img src="example/ex4.png">
+once it says it's <img src="example/ex4.png"> you can look for the STL file in your python file directory.
+
+feel free to modify the code.
+*I know I shouldn't leave the facets vector as 0 0 0 but as long as it works it's good for me :D
