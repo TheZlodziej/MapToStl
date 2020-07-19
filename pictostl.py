@@ -25,7 +25,6 @@ def gen_mesh(w, h, pixels): #returns array of tuples of tuples of triangle's ver
     scale=100
     width=300
     ret = []
-    print(pixels[0])
     for y in range(h):
         for x in range(w):
             if x != w-1 and y != h-1:
