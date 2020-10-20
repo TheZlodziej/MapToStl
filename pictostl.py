@@ -1,6 +1,6 @@
 from PIL import Image
 
-def get_pixels(img_path): #returns set of image width, height, sets of each individual pixel rgb[a] value
+def get_pixels(img_path): #returns filename, image width, image height, sets of each individual pixel rgb[a] value
     try:
         img = Image.open(img_path, 'r')
         w,h = img.size
