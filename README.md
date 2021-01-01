@@ -1,4 +1,4 @@
-### PicToMap is python code for generating STL file with picture input.
+### PicToStl is python code for generating STL file with picture input.
 ## Before & after:
 <img src="example/ex5.png">
 
